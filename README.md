@@ -188,6 +188,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
 | Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
 | Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
+| CAMEL | Open-source multi-agent framework with various toolkits and use-cases available. | [Link](https://github.com/camel-ai/camel) |
 | BeeAI | Build production-ready multi-agent systems in Python. | [Link](https://github.com/i-am-bee/beeai-framework/tree/main/python) | 
 | gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
 | Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
